@@ -198,6 +198,7 @@ Notes:
   * `floskell`
   * `ghc`
   * `ghc-mod`
+  * `haskell-language-server`
   * `hdevtools`
   * `hfmt`
   * `hie`

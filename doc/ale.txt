@@ -2737,6 +2737,7 @@ documented in additional help files.
     ghc...................................|ale-haskell-ghc|
     ghc-mod...............................|ale-haskell-ghc-mod|
     cabal-ghc.............................|ale-haskell-cabal-ghc|
+    haskell-language-server...............|ale-haskell-hls|
     hdevtools.............................|ale-haskell-hdevtools|
     hfmt..................................|ale-haskell-hfmt|
     hindent...............................|ale-haskell-hindent|

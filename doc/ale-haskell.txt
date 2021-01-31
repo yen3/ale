@@ -105,6 +105,18 @@ g:ale_haskell_hindent_executable             *g:ale_haskell_hindent_executable*
 
 
 ===============================================================================
+haskell-language-server                                       *ale-haskell-hle*
+
+g:ale_haskell_hls_executable                     *g:ale_haskell_hls_executable*
+                                                 *b:ale_haskell_his_executable*
+  Type: |String|
+  Default: `'haskell-language-server-wrapper'`
+
+  This variable can be changed to use a different executable for the haskell
+  language server.
+
+
+===============================================================================
 hlint                                                       *ale-haskell-hlint*
 
 g:ale_haskell_hlint_executable                 *g:ale_haskell_hlint_executable*
